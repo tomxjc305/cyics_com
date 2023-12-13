@@ -1,2 +1,1 @@
-I 'am Tom.
-i am Mary
+一个测试
